@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code10_213060_cmparison_operator_overloading", "code10_213060_cmparison_operator_overloading.csproj", "{2519A564-85D8-41A1-8C2A-CC0D4C032FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2519A564-85D8-41A1-8C2A-CC0D4C032FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2519A564-85D8-41A1-8C2A-CC0D4C032FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2519A564-85D8-41A1-8C2A-CC0D4C032FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2519A564-85D8-41A1-8C2A-CC0D4C032FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11D2243-F702-466E-9052-183CC42CA380}
+	EndGlobalSection
+EndGlobal
